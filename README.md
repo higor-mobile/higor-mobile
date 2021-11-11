@@ -5,3 +5,4 @@
 - 🤔 Estou procurando ajuda com ...
 - 😄 Dedicado, determinado, focado, mente aberta sempre para novas habilidades.
 - ⚡ Curiosidade: Sempre trabalhei como gestor de TI em grupos de concessionárias de veículos.
+-  📧 e-mail: higor.mobile@gmail.com
